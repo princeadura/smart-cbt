@@ -62,9 +62,9 @@ export const privacyPolicyData = [
     {
       section: "Contact Us",
       content: {
-        email: "[Insert Contact Email]",
-        phone: "[Insert Contact Number]",
-        address: "[Insert Physical Address]"
+        email: "smartcbt360@gmail.com",
+      
+      
       }
     }
   ];
