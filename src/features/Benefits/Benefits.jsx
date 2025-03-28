@@ -62,7 +62,7 @@ function Benefits() {
                         lineHeight={["40px", "40px", "44px"]}
                         textAlign="center"
                     >
-                       Why Choose <Text as="span" color="brand.100">Smart CBT App</Text>?
+                       Why Choose <Text as="span" color="brand.100">ACE CBT App</Text>?
                     </Heading>
 
                 </VStack>

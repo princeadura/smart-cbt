@@ -94,7 +94,7 @@ function Hero() {
                                 px="8px"
                                 mx="4px"
                             >
-                                Smart CBT App
+                                ACE CBT App
                             </Text> 
                                 is your all-in-one solution for 
                             <Text
@@ -119,7 +119,7 @@ function Hero() {
                             lineHeight="25px"
                             color="alt.300"
                         >
-                            Helping you practice smarter, track your progress, and boost your confidence!
+                            Helping you practice ACEer, track your progress, and boost your confidence!
                         </Text>
 
                     </VStack>
@@ -182,7 +182,7 @@ function Hero() {
                     <Image
                      w="full"
                      h="full"
-                     src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/SmartCBT/h7jq2nr6cqg5p8rjo4wi"
+                     src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/ACECBT/h7jq2nr6cqg5p8rjo4wi"
                      alt="mockup-image"
                      objectFit="cover"
                     />

@@ -57,10 +57,10 @@ function Footer() {
           >
               <Link to="/">
                   <Image
-                    src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/SmartCBT/lvf1b6i5d1tkxe6wgsbu"
+                    src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/ACECBT/lvf1b6i5d1tkxe6wgsbu"
                     w="250px"
                     h="40px"
-                    alt="smart-cbt-logo"
+                    alt="ACE-cbt-logo"
                     objectFit="contain"
                     ml={-10}
                   />   
@@ -72,7 +72,7 @@ function Footer() {
                   lineHeight="28px"
                   color="brand.900"
               >
-                Helping you practice smarter, track your progress, and boost your confidence!
+                Helping you practice ACEer, track your progress, and boost your confidence!
               </Text>
 
               <HStack
@@ -216,7 +216,7 @@ function Footer() {
                   color="brand.900" 
                   textAlign="center"
                 >
-                Powered by Smart CBT
+                Powered by ACE CBT
               </Text>
 
               <Text 
@@ -226,7 +226,7 @@ function Footer() {
                   color="brand.900" 
                   textAlign="center"
               >
-                &copy; {new Date().getFullYear()} Smart CBT | All Rights Reserved
+                &copy; {new Date().getFullYear()} ACE CBT | All Rights Reserved
               </Text>
 
             </Flex>

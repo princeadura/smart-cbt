@@ -83,7 +83,7 @@ function About() {
                         color="black"
                         lineHeight={["40px", "40px", "44px"]}
                     >
-                        Download the <Text as="span" color="brand.100">Smart CBT App</Text> Today!
+                        Download the <Text as="span" color="brand.100">ACE CBT App</Text> Today!
                     </Heading>
 
 
@@ -93,7 +93,7 @@ function About() {
                         lineHeight="28px"
                         color="brand.900"
                     >
-                        Start Preparing Now! Don’t leave your success to chance—download Smart CBT App today and take control of your exam success!
+                        Start Preparing Now! Don’t leave your success to chance—download ACE CBT App today and take control of your exam success!
                     </Text>
 
                     

@@ -57,7 +57,7 @@ export const NavbarData = [
 
     {
         id: "why-us",
-        display: "Why SMART CBT",
+        display: "Why ACE CBT",
         path: "/why-us",
     },
 
@@ -84,13 +84,13 @@ export const footerNavData = [
 export const storeBtns = [
     {
         title: "Google Play Store",
-        image: "https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/SmartCBT/s1804midhv9g3m2q42q2",
+        image: "https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/ACECBT/s1804midhv9g3m2q42q2",
         url: "/",
     },
 
     {
         title: "Apple Store",
-        image: "https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/SmartCBT/fnvyh7qds0jdrp56oowb",
+        image: "https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/ACECBT/fnvyh7qds0jdrp56oowb",
         url: "/",
     },
   ] 

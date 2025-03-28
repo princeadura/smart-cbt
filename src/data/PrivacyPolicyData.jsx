@@ -15,7 +15,7 @@ export const privacyPolicyData = [
     {
       section: "How We Use Your Information",
       content: [
-        "Provide and improve the Smart CBT App experience.",
+        "Provide and improve the ACE CBT App experience.",
         "Track your progress and offer personalized recommendations.",
         "Enhance app security and prevent unauthorized access.",
         "Send important updates, notifications, or promotional content (with your consent).",
@@ -37,7 +37,7 @@ export const privacyPolicyData = [
     },
     {
       section: "Cookies and Tracking Technologies",
-      content: "Smart CBT App may use cookies and similar tracking technologies to enhance your experience and analyze app performance. You can manage cookie preferences through your device settings."
+      content: "ACE CBT App may use cookies and similar tracking technologies to enhance your experience and analyze app performance. You can manage cookie preferences through your device settings."
     },
     {
       section: "Your Rights and Choices",
@@ -53,7 +53,7 @@ export const privacyPolicyData = [
     },
     {
       section: "Children’s Privacy",
-      content: "Smart CBT App is designed for students, but we do not knowingly collect data from children under 13 without parental consent. If you believe we have unintentionally collected such data, please contact us."
+      content: "ACE CBT App is designed for students, but we do not knowingly collect data from children under 13 without parental consent. If you believe we have unintentionally collected such data, please contact us."
     },
     {
       section: "Changes to This Policy",
@@ -62,7 +62,7 @@ export const privacyPolicyData = [
     {
       section: "Contact Us",
       content: {
-        email: "smartcbt360@gmail.com",
+        email: "ACEcbt360@gmail.com",
       
       
       }
