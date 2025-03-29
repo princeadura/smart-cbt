@@ -9,7 +9,8 @@ export const privacyPolicyData = [
         "Personal Information: Name, email address, phone number, and other details you provide during registration.",
         "Usage Data: Information on how you interact with the app, including accessed features and session duration.",
         "Device Information: Device type, operating system, and app version.",
-        "Log Data: IP address, browser type, and usage logs."
+        "Log Data: IP address, browser type, and usage logs.",
+        "Payment Information: Payment details processed via Paystack."
       ]
     },
     {
@@ -17,6 +18,7 @@ export const privacyPolicyData = [
       content: [
         "Provide and improve the ACE CBT App experience.",
         "Track your progress and offer personalized recommendations.",
+        "To process payments securely through Paystack.",
         "Enhance app security and prevent unauthorized access.",
         "Send important updates, notifications, or promotional content (with your consent).",
         "Improve customer support and resolve issues."
@@ -24,7 +26,10 @@ export const privacyPolicyData = [
     },
     {
       section: "Data Protection and Security",
-      content: "We implement industry-standard security measures to protect your data. However, no method of transmission over the internet is completely secure. We encourage users to take precautions to safeguard their information."
+      content: ["We implement industry-standard security measures to protect your data. However, no method of transmission over the internet is completely secure. We encourage users to take precautions to safeguard their information.",
+      "All collected data is encrypted to protect your information.",
+      "We implement security measures to prevent unauthorized access.",
+      ]
     },
     {
       section: "Sharing Your Information",
@@ -62,7 +67,7 @@ export const privacyPolicyData = [
     {
       section: "Contact Us",
       content: {
-        email: "ACEcbt360@gmail.com",
+        email: "ACEcbt7@gmail.com",
       
       
       }
