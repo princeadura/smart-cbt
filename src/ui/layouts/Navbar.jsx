@@ -72,7 +72,7 @@ function Navbar() {
          >
                 <Link to="/">
                     <Image
-                        src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/ACECBT/lvf1b6i5d1tkxe6wgsbu"
+                        src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/SmartCBT/lvf1b6i5d1tkxe6wgsbu"
                         w="250px"
                         h="44px"
                         alt="ACE-cbt-logo"
@@ -147,7 +147,7 @@ function Navbar() {
             
                 <Link to="/">
                     <Image
-                        src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/ACECBT/lvf1b6i5d1tkxe6wgsbu"
+                        src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/SmartCBT/lvf1b6i5d1tkxe6wgsbu"
                         w="250px"
                         h="44px"
                         alt="ACE-cbt-logo"

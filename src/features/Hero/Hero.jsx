@@ -182,7 +182,7 @@ function Hero() {
                     <Image
                      w="full"
                      h="full"
-                     src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/ACECBT/h7jq2nr6cqg5p8rjo4wi"
+                     src="https://res.cloudinary.com/doqvfemo3/image/upload/f_auto,q_auto/v1/SmartCBT/h7jq2nr6cqg5p8rjo4wi"
                      alt="mockup-image"
                      objectFit="cover"
                     />

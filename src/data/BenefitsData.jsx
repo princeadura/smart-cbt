@@ -5,8 +5,9 @@ import {
   MdFeedback, 
   MdTimer, 
   MdTrendingUp, 
-  MdACEphone, 
-  MdUpdate 
+  MdTrackChanges, 
+  MdUpdate, 
+  
 } from "react-icons/md";
 
 export const benefitsData = [
@@ -36,7 +37,7 @@ export const benefitsData = [
     description: "Identify strengths & weaknesses with ACE analytics."
   },
   {
-    icon: <Icon as={MdACEphone} fontSize="24px" color="brand.100" />,
+    icon: <Icon as={MdTrackChanges} fontSize="24px" color="brand.100" />,
     title: "User-Friendly Interface",
     description: "Study stress-free with a smooth and simple design."
   },
