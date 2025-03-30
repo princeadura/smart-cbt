@@ -64,6 +64,16 @@ export const privacyPolicyData = [
       section: "Changes to This Policy",
       content: "We may update this Privacy Policy from time to time. Any changes will be posted within the app, and continued use of the app implies acceptance of the updated policy."
     },
+    
+    {
+      section: "DELETE ACCOUNT",
+      content: {
+        email: "open ticket: ACEcbt7@gmail.com",
+      
+      
+      }
+    },
+
     {
       section: "Contact Us",
       content: {
